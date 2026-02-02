@@ -1,4 +1,4 @@
-# Uniqlo-Colour-Analysis
+# 👕📊 Uniqlo Colour Analysis
 This project analyzes Uniqlo’s clothing sales data to evaluate how well color assortments align with regional skin tone demographics and color theory principles. The goal is to identify whether the colors offered in different regions match local preferences, and to uncover opportunities for inventory and product assortment optimization.
 
 ## Key Features:
